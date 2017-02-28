@@ -1,0 +1,76 @@
+#homeheader {
+    text-align: center;
+    margin: 10px 75px 10px 75px;
+    background-color: white;
+}
+#lefttab {
+    margin-left: 76px;
+}
+#planetdescribe {
+    text-align: center;
+    background-color: white;
+    margin: 10px 75px 0px 75px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#planetdbody {
+    line-height: 20px;
+}
+#animation {
+    margin: 10px 75px 0px 75px;
+    height: 200px;
+    overflow: hidden;
+}
+#earthpic {
+    float: left;
+    display: inline-block;
+}
+#ship {
+    float: none;
+    display: inline-block;
+    height: 50px;
+    margin-left: 200px;
+    margin-bottom: 75px;
+}
+#osiris {
+    float: right;
+    height: 200px;
+    display: inline-block;
+}
+#one {
+    margin-left: 75px;
+    width: 272px;
+}
+.bordered {
+    border: solid;
+    border-width: 4px;
+    border-color: #287aff;
+}
+.tab {
+    background-color: white;
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+    width: 248px;
+    margin: 5px 6px 5px 0px;
+    text-align: center;
+}
+.step {
+    text-align: center;
+    background-color: white;
+    width: 273px;
+    display: inline-block;
+    margin-top: 10px;
+    opacity: 0.1;
+}
+.label {
+    text-decoration-color: black;
+}
+a {
+    text-decoration: none;
+}
+body {
+    background-color: black;
+}
+.tab:hover {
+    background-color: silver;
+}

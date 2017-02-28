@@ -1,0 +1,63 @@
+#homeheader {
+    text-align: center;
+    margin: 10px 75px 10px 75px;
+    background-color: white;
+}
+#lefttab {
+    margin-left: 76px;
+}
+#planetdescribe {
+    text-align: center;
+    background-color: white;
+    margin: 10px 75px 0px 75px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#planetdbody {
+    line-height: 20px;
+}
+#leftpic {
+    margin-left: 76px;
+}
+#leftpiclabel {
+    margin-left: 76px;
+}
+.homepic {
+    height: 231px;
+    width: 268px;
+    margin-top: 20px;
+    margin-left: 3px;
+    margin-right: 3px;
+    display: inline-block;
+    overflow: hidden;
+}
+.bordered {
+    border: solid;
+    border-width: 4px;
+    border-color: #287aff;
+}
+.tab {
+    background-color: white;
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+    width: 248px;
+    margin: 5px 6px 5px 0px;
+    text-align: center;
+}
+.piclabel {
+    background-color: white;
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+    width: 248px;
+    margin: 5px 6px 5px 0px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+body {
+    background-color: black;
+}
+.tab:hover {
+    background-color: silver;
+}
